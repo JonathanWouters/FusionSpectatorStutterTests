@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 401c307704855664689b8ef3fa722f80
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 66a64a17d0b40f34f9224317a5a84bf2, type: 3}
+  PrefabAssetsContainerPath: 
